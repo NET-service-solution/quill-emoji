@@ -10238,6 +10238,7 @@ let emojiList = [
   {
     "name": "flag-pt",
     "unicode": "1f1f5-1f1f9",
+    "unicode": "🇵🇹",
     // "shortname": ":flag-pt:",
 
     "category": "f",
